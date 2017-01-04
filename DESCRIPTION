@@ -1,6 +1,6 @@
 Package: fastTextR
 Type: Package
-Title: Efficient learning of word representations and sentence classification using fastText in R
+Title: Efficient learning of word representations
 Version: 1.0.0
 Author: Lampros Mouselimis <mouselimislampros@gmail.com>
 Maintainer: Lampros Mouselimis <mouselimislampros@gmail.com>
