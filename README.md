@@ -6,6 +6,10 @@ The fastTextR package is an R wrapper (only) for the *skipgram* and *cbow* funct
 
 <br>
 
+A detailed example can be found in the [blog-post](http://mlampros.github.io/2017/01/05/textTinyR_package/), in section 'word vectors'.
+
+<br>
+
 To install the package from Github use the *install_github* function of the devtools package,
 <br><br>
 
