@@ -4,9 +4,7 @@
 
 The fastTextR package is an R wrapper (only) for the *skipgram* and *cbow* functions of the [*fastText*](https://github.com/facebookresearch/fastText) library. *fastText* is a library for efficient learning of word representations and sentence classification. Since it uses C++11 features, it requires a compiler with good C++11 support. These include : (gcc-4.6.3 or newer) or (clang-3.3 or newer). More information about the fastText library can be found in [https://github.com/facebookresearch/fastText](https://github.com/facebookresearch/fastText). COPYRIGHTS, LICENSE and PATENTS files can be found in the *inst* folder of the R package.
 
-<br>
-
-A detailed example can be found in the [blog-post](http://mlampros.github.io/2017/01/05/textTinyR_package/), in section 'word vectors'.
+A detailed example can be found in my [blog-post](http://mlampros.github.io/2017/01/05/textTinyR_package/) about text processing, in section 'word vectors'.
 
 <br>
 
