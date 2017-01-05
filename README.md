@@ -1,4 +1,10 @@
 
+[![Travis-CI Build Status](https://travis-ci.org/mlampros/fastTextR.svg?branch=master)](https://travis-ci.org/mlampros/fastTextR)
+[![codecov.io](https://codecov.io/github/mlampros/fastTextR/coverage.svg?branch=master)](https://codecov.io/github/mlampros/fastTextR?branch=master)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/mlampros/fastTextR?branch=master&svg=true)](https://ci.appveyor.com/project/mlampros/fastTextR/branch/master)
+
+
+
 
 ## fastTextR
 <br>
